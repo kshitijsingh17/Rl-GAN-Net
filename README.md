@@ -16,7 +16,7 @@ RL-GAN-Net is composed of three main modules:
 - **Latent-Space GAN (l-GAN)**: Trained in GFV space to generate realistic latent representations of complete shapes.
 - **Reinforcement Learning Agent**: Selects optimal latent seed vector `z` to feed the generator for producing plausible completions.
 
-![Architecture Overview](docs/architecture_diagram.png)
+![Architecture Overview](pipeline.jpg)
 
 ## 🔍 Applications
 
